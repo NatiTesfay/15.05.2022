@@ -217,3 +217,41 @@
 
 
 
+// function ages([]) {
+//     var nums =[10,20,15,30,64];
+// for (var i = 0; i < nums.length; i++) {
+//           if (nums[i] >20) {
+//               return nums[i];
+//           }
+//         console.log(nums[i]);
+//     }
+// }
+// ages([]);
+
+
+// function namePeople() {
+//     var nums = [5,10,15,20,8];
+//     var sum = [5+10+15+20+8];
+//     for (let i = 0; i < nums.length; i++) {
+//          if (sum <= 13) {
+//              console.log('bar-mizva');
+//          }
+//          if (sum == 12) {
+//              console.log('bat-mizva');
+//          } else { 
+//              console.log('kid');
+//          }
+//          return sum;
+//     }
+// }
+// namePeople();
+
+// function funcText() {
+//     var text= ['javascrit is not JAVA'];
+//     for (let i = 0; i <= 1000; i++) {
+//         if (text[i] < 0) {
+//         }
+//         console.log(text[i]);
+//     }
+// }
+// funcText();
