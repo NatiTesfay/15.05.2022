@@ -200,5 +200,19 @@
 // myfunc([]);
 
 
+function maxMin(sumArray) {
+    var min =sumArray[0];
+   for (var i = 0; i < sumArray.length; i++) {
+       if (min > sumArray[i]) {
+         min = sumArray[i];
+           console.log(i ,"i");
+           console.log(sumArray[i] ,"sumArray");
+        //    console.log(sumArray[0]);
+       }
+   }
+}
+var c = [20,50,8,36]
+ 
+maxMin(c);
 
 
